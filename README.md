@@ -1,7 +1,7 @@
 # Excel-Project 1 Interactive Daashboard
 Vrinda Store Data Analysis 
 Compare the sales and orders using single chart.
-
+------------------------------------------------------------
 Which month got the highest sales and orders?
 
 Who purchased more - Men or Women?
@@ -19,7 +19,7 @@ Highest selling category?
 Percentage of Total Orders delivered
 
 Project Insight
-
+--------------------------------------------------------------------
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
